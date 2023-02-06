@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="MX29L3211">
+    <flash_size>4194304</flash_size>
+    <page_size>256</page_size> 
+    <page_count>16384</page_count>
+	<delay>25</delay>
+	<id>DA0B</id>
+  </name>
+
+  <name model="MX29L1611">
+    <flash_size>2097152</flash_size>
+    <page_size>128</page_size> 
+    <page_count>16384</page_count>
+	<delay>25</delay>
+	<id>DA0B</id>
+  </name>
+
+  <name model="MX29LTEST">
+    <flash_size>65536</flash_size>
+    <page_size>128</page_size> 
+    <page_count>256</page_count>
+	<delay>25</delay>
+	<id>DA0B</id>
+  </name>
+
+</flash>

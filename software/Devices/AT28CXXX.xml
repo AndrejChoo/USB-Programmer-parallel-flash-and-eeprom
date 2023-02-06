@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="at28c64">
+    <flash_size>8192</flash_size>
+    <page_size>64</page_size> 
+    <page_count>128</page_count>
+	<delay>190</delay>
+	<id>DAC1</id>
+  </name>
+
+</flash>

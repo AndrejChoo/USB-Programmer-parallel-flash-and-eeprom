@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<eeprom>
+
+  <name model="at24c01">
+    <page_size>8</page_size> 
+    <page_count>16</page_count>
+    <ee_size>128</ee_size>
+	<add_size>1</add_size>
+  </name>
+  
+  <name model="at24c02">
+    <page_size>8</page_size> 
+    <page_count>32</page_count>
+    <ee_size>256</ee_size>
+	<add_size>1</add_size>
+  </name>
+
+  <name model="at24c04">
+    <page_size>16</page_size> 
+    <page_count>32</page_count>
+    <ee_size>512</ee_size>
+	<add_size>1</add_size>
+  </name>
+  
+  <name model="at24c08">
+    <page_size>16</page_size> 
+    <page_count>64</page_count>
+    <ee_size>1024</ee_size>
+	<add_size>1</add_size>
+  </name>
+  
+  <name model="at24c16">
+    <page_size>16</page_size> 
+    <page_count>128</page_count>
+    <ee_size>2048</ee_size>
+	<add_size>1</add_size>
+  </name>
+  
+  <name model="at24c32">
+    <page_size>32</page_size> 
+    <page_count>128</page_count>
+    <ee_size>4096</ee_size>
+	<add_size>2</add_size>
+  </name>
+  
+  <name model="at24c64">
+    <page_size>32</page_size> 
+    <page_count>256</page_count>
+    <ee_size>8192</ee_size>
+	<add_size>2</add_size>
+  </name>
+  
+  <name model="at24c128">
+    <page_size>64</page_size> 
+    <page_count>256</page_count>
+    <ee_size>16384</ee_size>
+	<add_size>2</add_size>
+  </name>
+  
+  <name model="at24c256">
+    <page_size>64</page_size> 
+    <page_count>512</page_count>
+    <ee_size>32768</ee_size>
+	<add_size>2</add_size>
+  </name>
+  
+</eeprom>

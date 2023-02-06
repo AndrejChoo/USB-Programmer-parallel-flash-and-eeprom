@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="AM29F512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+  </name>
+
+  <name model="AM29F020">
+    <flash_size>262144</flash_size>
+    <page_size>1</page_size> 
+    <page_count>262144</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+  </name>
+
+  <name model="AM29F040">
+    <flash_size>524288</flash_size>
+    <page_size>1</page_size> 
+    <page_count>524288</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+  </name>
+  
+</flash>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<avr>
+
+ <name model="at90usb162">
+    <page_size>64</page_size>
+    <page_count>128</page_count>
+    <ee_size>512</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>C1</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9482</id>
+  </name>
+
+  <name model="attiny13a">
+    <page_size>16</page_size>
+    <page_count>32</page_count>
+    <ee_size>64</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>3</dev_type>
+	<l_fuse>6A</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9007</id>
+  </name>
+
+  <name model="attiny2313">
+    <page_size>16</page_size>
+    <page_count>64</page_count>
+    <ee_size>128</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>1</dev_type>
+	<l_fuse>62</l_fuse>
+	<h_fuse>DF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E910A</id>
+  </name>
+  
+  <name model="attiny25">
+    <page_size>16</page_size>
+    <page_count>64</page_count>
+    <ee_size>128</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>3</dev_type>
+	<l_fuse>63</l_fuse>
+	<h_fuse>DF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9108</id>
+  </name>
+  
+  <name model="attiny45">
+    <page_size>32</page_size>
+    <page_count>64</page_count>
+    <ee_size>256</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>3</dev_type>
+	<l_fuse>63</l_fuse>
+	<h_fuse>DF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9206</id>
+  </name>
+  
+  <name model="attiny85">
+    <page_size>32</page_size>
+    <page_count>128</page_count>
+    <ee_size>512</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>3</dev_type>
+	<l_fuse>63</l_fuse>
+	<h_fuse>DF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E930B</id>
+  </name>
+
+  <name model="atmega128">
+    <page_size>128</page_size>
+    <page_count>512</page_count>
+    <ee_size>4096</ee_size>
+	<ee_psize>8</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>C1</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FD</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9702</id>
+  </name>
+  
+  <name model="atmega16">
+    <page_size>64</page_size>
+    <page_count>128</page_count>
+    <ee_size>512</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>C1</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9403</id>
+  </name> 
+  
+    <name model="atmega2560">
+    <page_size>128</page_size>
+    <page_count>1024</page_count>
+    <ee_size>4096</ee_size>
+	<ee_psize>8</ee_psize>
+	<dev_type>2</dev_type>
+	<l_fuse>42</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9801</id>
+  </name> 
+ 
+  <name model="atmega32">
+    <page_size>64</page_size>
+    <page_count>256</page_count>
+    <ee_size>1024</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>E1</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9502</id>
+  </name>
+ 
+  <name model="atmega328">
+    <page_size>64</page_size>
+    <page_count>256</page_count>
+    <ee_size>1024</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>62</l_fuse>
+	<h_fuse>D9</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9514</id>
+  </name>
+  
+    <name model="atmega328p">
+    <page_size>64</page_size>
+    <page_count>256</page_count>
+    <ee_size>1024</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>62</l_fuse>
+	<h_fuse>D9</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E950F</id>
+  </name>
+  
+   <name model="atmega644">
+    <page_size>128</page_size>
+    <page_count>256</page_count>
+    <ee_size>2048</ee_size>
+	<ee_psize>8</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>42</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9609</id>
+  </name>
+  
+  <name model="atmega8">
+    <page_size>32</page_size>
+    <page_count>128</page_count>
+    <ee_size>512</ee_size>
+	<ee_psize>4</ee_psize>
+	<dev_type>0</dev_type>
+	<l_fuse>C1</l_fuse>
+	<h_fuse>99</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E9307</id>
+  </name>
+
+  
+</avr>
