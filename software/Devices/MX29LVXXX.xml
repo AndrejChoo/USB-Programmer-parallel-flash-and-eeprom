@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="MX29LV320">
+    <flash_size>4194304</flash_size>
+    <page_size>1</page_size> 
+    <page_count>4194304</page_count>
+	<delay>200</delay>
+	<id>DA0B</id>
+  </name>
+
+  <name model="MX29LVTEST">
+    <flash_size>262144</flash_size>
+    <page_size>1</page_size> 
+    <page_count>262144</page_count>
+	<delay>200</delay>
+	<id>DA0B</id>
+  </name>
+
+</flash>

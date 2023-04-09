@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="w29c512">
+    <flash_size>65536</flash_size>
+    <page_size>128</page_size> 
+    <page_count>512</page_count>
+	<delay>40</delay>
+	<id>DAC1</id>
+  </name>
+
+  <name model="w29c010">
+    <flash_size>131072</flash_size>
+    <page_size>128</page_size> 
+    <page_count>1024</page_count>
+	<delay>40</delay>
+	<id>DAC1</id>
+  </name>
+
+  <name model="w29c020">
+    <flash_size>262144</flash_size>
+    <page_size>128</page_size> 
+    <page_count>2048</page_count>
+	<delay>40</delay>
+	<id>DA45</id>
+  </name>
+  
+  <name model="w29c040">
+    <flash_size>524288</flash_size>
+    <page_size>128</page_size> 
+    <page_count>4096</page_count>
+	<delay>40</delay>
+	<id>DA45</id>
+  </name>
+
+</flash>

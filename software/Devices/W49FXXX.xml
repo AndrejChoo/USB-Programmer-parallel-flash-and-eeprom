@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="W49F002">
+    <flash_size>262144</flash_size>
+    <page_size>1</page_size> 
+    <page_count>262144</page_count>
+	<delay>20</delay>
+	<id>DA0B</id>
+  </name>
+
+</flash>
