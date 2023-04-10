@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="SST39VF1601">
+    <flash_size>2097152</flash_size>
+    <page_size>1</page_size> 
+    <page_count>2097152</page_count>
+	<delay>80</delay>
+	<id>BFB4</id>
+	<read_alg>8</read_alg>
+	<write_alg>9</write_alg>
+	<erase_alg>8</erase_alg>
+	<id_alg>8</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+  
+    <name model="SST39VF16test">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>80</delay>
+	<id>BFB4</id>
+	<read_alg>8</read_alg>
+	<write_alg>9</write_alg>
+	<erase_alg>8</erase_alg>
+	<id_alg>8</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+</flash>

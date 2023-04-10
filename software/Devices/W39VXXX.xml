@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="W39V040">
+    <flash_size>524288</flash_size>
+    <page_size>1</page_size> 
+    <page_count>524288</page_count>
+	<delay>80</delay>
+	<id>DA0B</id>
+	<read_alg>13</read_alg>
+	<write_alg>13</write_alg>
+	<erase_alg>13</erase_alg>
+	<id_alg>13</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+</flash>

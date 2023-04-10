@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="S29AL016">
+    <flash_size>2097152</flash_size>
+    <page_size>1</page_size> 
+    <page_count>2097152</page_count>
+	<delay>180</delay>
+	<id>20C4</id>
+	<read_alg>8</read_alg>
+	<write_alg>10</write_alg>
+	<erase_alg>10</erase_alg>
+	<id_alg>10</id_alg>
+	<resprotect_alg>10</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+</flash>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="W25Q80">
+    <page_size>256</page_size> 
+    <page_count>4096</page_count>
+	<f_size>1048576</f_size>
+	<id>EF4014</id>
+  </name>
+  
+  <name model="W25Q16">
+    <page_size>256</page_size> 
+    <page_count>8192</page_count>
+	<f_size>2097152</f_size>
+	<id>EF4015</id>
+  </name>
+  
+  <name model="W25Q32">
+    <page_size>256</page_size> 
+    <page_count>16684</page_count>
+	<f_size>4194304</f_size>
+	<id>EF4016</id>
+  </name>
+  
+  <name model="W25Q64">
+    <page_size>256</page_size> 
+    <page_count>32768</page_count>
+	<f_size>8388608</f_size>
+	<id>EF4017</id>
+  </name>
+
+  <name model="PM25LV010">
+    <page_size>256</page_size> 
+    <page_count>512</page_count>
+	<f_size>131072</f_size>
+	<id>9D0000</id>
+  </name>
+  
+</flash>
