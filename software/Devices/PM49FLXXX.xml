@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="PM49FL004">
+    <flash_size>524288</flash_size>
+    <page_size>1</page_size> 
+    <page_count>524288</page_count>
+	<delay>80</delay>
+	<id>01A4</id>
+	<read_alg>13</read_alg>
+	<write_alg>14</write_alg>
+	<erase_alg>14</erase_alg>
+	<id_alg>13</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+</flash>
