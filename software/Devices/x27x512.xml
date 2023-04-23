@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="HT27C512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>120</delay>
+	<id>DA08</id>
+	<read_alg>1</read_alg>
+	<write_alg>7</write_alg>
+	<erase_alg>0</erase_alg>
+	<id_alg>7</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+  <name model="W27C512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>90</delay>
+	<id>DA08</id>
+	<read_alg>1</read_alg>
+	<write_alg>7</write_alg>
+	<erase_alg>7</erase_alg>
+	<id_alg>7</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+  </name>
+
+</flash>
