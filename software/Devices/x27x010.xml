@@ -6,7 +6,7 @@
     <flash_size>131072</flash_size>
     <page_size>1</page_size> 
     <page_count>131072</page_count>
-	<delay>90</delay>
+	<delay>100</delay>
 	<id>010E</id>
 	<read_alg>27</read_alg>
 	<write_alg>27</write_alg>
@@ -24,7 +24,7 @@
     <flash_size>131072</flash_size>
     <page_size>1</page_size> 
     <page_count>131072</page_count>
-	<delay>90</delay>
+	<delay>150</delay>
 	<id>010E</id>
 	<read_alg>27</read_alg>
 	<write_alg>27</write_alg>
