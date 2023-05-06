@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <avr>
 
+ <name model="at89c51">
+    <page_size>1</page_size>
+    <page_count>4096</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>7</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E51FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+
+ <name model="at89c52">
+    <page_size>1</page_size>
+    <page_count>8192</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>7</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E52FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+
  <name model="at90usb162">
     <page_size>64</page_size>
     <page_count>128</page_count>
@@ -12,6 +46,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9482</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
 
   <name model="attiny13a">
@@ -25,6 +63,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9007</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
 
   <name model="attiny2313">
@@ -38,6 +80,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E910A</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
   <name model="attiny25">
@@ -51,6 +97,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9108</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
   <name model="attiny45">
@@ -64,6 +114,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9206</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
   <name model="attiny85">
@@ -77,6 +131,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E930B</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
 
   <name model="atmega128">
@@ -90,6 +148,10 @@
 	<e_fuse>FD</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9702</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
   <name model="atmega16">
@@ -103,6 +165,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9403</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name> 
   
     <name model="atmega2560">
@@ -116,6 +182,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9801</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name> 
  
   <name model="atmega32">
@@ -129,6 +199,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9502</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
  
   <name model="atmega328">
@@ -142,6 +216,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9514</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
     <name model="atmega328p">
@@ -155,6 +233,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E950F</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
    <name model="atmega644">
@@ -168,6 +250,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9609</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
   
   <name model="atmega8">
@@ -181,6 +267,10 @@
 	<e_fuse>FF</e_fuse>
 	<l_bits>FF</l_bits>
 	<id>1E9307</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
   </name>
 
   
