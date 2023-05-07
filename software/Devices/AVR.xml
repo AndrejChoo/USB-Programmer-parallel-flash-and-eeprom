@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <avr>
 
+ <name model="at89c1051">
+    <page_size>1</page_size>
+    <page_count>1024</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>8</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E11FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+  
+ <name model="at89c2051">
+    <page_size>1</page_size>
+    <page_count>2048</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>8</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E21FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+  
+ <name model="at89c4051">
+    <page_size>1</page_size>
+    <page_count>4096</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>8</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E41FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+
  <name model="at89c51">
     <page_size>1</page_size>
     <page_count>4096</page_count>
@@ -21,6 +72,23 @@
  <name model="at89c52">
     <page_size>1</page_size>
     <page_count>8192</page_count>
+    <ee_size>0</ee_size>
+	<ee_psize>0</ee_psize>
+	<dev_type>7</dev_type>
+	<l_fuse>FF</l_fuse>
+	<h_fuse>FF</h_fuse>
+	<e_fuse>FF</e_fuse>
+	<l_bits>FF</l_bits>
+	<id>1E52FF</id>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>1220</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>1220</protect_vpp>
+  </name>
+  
+ <name model="at89c55">
+    <page_size>1</page_size>
+    <page_count>20480</page_count>
     <ee_size>0</ee_size>
 	<ee_psize>0</ee_psize>
 	<dev_type>7</dev_type>
