@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="M27C64A">
+    <flash_size>8192</flash_size>
+    <page_size>1</page_size> 
+    <page_count>8192</page_count>
+	<delay>100</delay>
+	<id>DA08</id>
+	<read_alg>17</read_alg>
+	<write_alg>17</write_alg>
+	<erase_alg>0</erase_alg>
+	<id_alg>17</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1250</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>1250</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+  <name model="MBM2764">
+    <flash_size>8192</flash_size>
+    <page_size>1</page_size> 
+    <page_count>8192</page_count>
+	<delay>200</delay>
+	<id>0000</id>
+	<read_alg>17</read_alg>
+	<write_alg>17</write_alg>
+	<erase_alg>0</erase_alg>
+	<id_alg>17</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>2100</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+</flash>
