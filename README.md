@@ -1,5 +1,5 @@
 # USB-Programmer-parallel-flash-and-eeprom
-USB programmer for parallel flash and eeprom with support for high-voltage parallel programming AVR, based on STM32.
+USB программатор параллельшых Flash, EPROM, EEPROM, AVR в режиме высоковольтного параллельного программирования основанный на STM32.
 
 9.04.2023
 На данный момент исправлено множество ошибок в основном в прошивке платы-программатора. 
