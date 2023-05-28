@@ -5,7 +5,7 @@
     <flash_size>65536</flash_size>
     <page_size>1</page_size> 
     <page_count>65536</page_count>
-	<delay>120</delay>
+	<delay>100</delay>
 	<id>DA08</id>
 	<read_alg>1</read_alg>
 	<write_alg>7</write_alg>
@@ -13,8 +13,48 @@
 	<id_alg>7</id_alg>
 	<resprotect_alg>0</resprotect_alg>
 	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1220</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>1220</id_vpp>
+	<protect_vpp>0</protect_vpp>
   </name>
 
+  <name model="SST27SF512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>90</delay>
+	<id>BFA4</id>
+	<read_alg>1</read_alg>
+	<write_alg>7</write_alg>
+	<erase_alg>7</erase_alg>
+	<id_alg>7</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1200</prog_vpp>
+	<erase_vpp>1405</erase_vpp>
+	<id_vpp>1200</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+  
+  <name model="TMS27PC512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>90</delay>
+	<id>9785</id>
+	<read_alg>1</read_alg>
+	<write_alg>7</write_alg>
+	<erase_alg>0</erase_alg>
+	<id_alg>7</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1300</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>1300</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+  
   <name model="W27C512">
     <flash_size>65536</flash_size>
     <page_size>1</page_size> 
@@ -27,6 +67,10 @@
 	<id_alg>7</id_alg>
 	<resprotect_alg>0</resprotect_alg>
 	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1200</prog_vpp>
+	<erase_vpp>1405</erase_vpp>
+	<id_vpp>1200</id_vpp>
+	<protect_vpp>0</protect_vpp>
   </name>
 
 </flash>
