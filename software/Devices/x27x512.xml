@@ -32,7 +32,7 @@
 	<resprotect_alg>0</resprotect_alg>
 	<setprotect_alg>0</setprotect_alg>
 	<prog_vpp>1200</prog_vpp>
-	<erase_vpp>1405</erase_vpp>
+	<erase_vpp>1200</erase_vpp>
 	<id_vpp>1200</id_vpp>
 	<protect_vpp>0</protect_vpp>
   </name>
