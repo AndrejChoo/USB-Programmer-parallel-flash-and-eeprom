@@ -1,7 +1,7 @@
 # USB-Programmer-parallel-flash-and-eeprom
 USB программатор параллельных Flash, EPROM, EEPROM, микроконтроллеров AVR (в том числе AT89CXX) в режиме высоковольтного параллельного программирования основанный на STM32.
 
-![Screevshot](https://github.com/AndrejChoo/USB-Programmer-parallel-flash-and-eeprom/blob/main/hardware/images/screenshot.png)
+![Screevshot](https://github.com/AndrejChoo/USB-Programmer-parallel-flash-and-eeprom/blob/main/hardware/images/software.png)
 # 9.04.2023
 На данный момент исправлено множество ошибок в основном в прошивке платы-программатора. 
 Немного доработан софт, исправлены некоторые ошибки во вкладке "TestH/W", также там добавлена функция проверки старшего байта данных (D15:8). Исправлена ошибка вылета программы при отключении COM порта (при нажатии на "Disconnect"). Но многие исключения до сих пор ещё не обрабатываются, например при введении некорректных данных в окошки с HEX числами.
