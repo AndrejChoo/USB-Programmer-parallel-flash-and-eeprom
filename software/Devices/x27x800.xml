@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+
+  <name model="M27C800">
+    <flash_size>1048576</flash_size>
+    <page_size>1</page_size> 
+    <page_count>1048576</page_count>
+	<delay>100</delay>
+	<id>20B2</id>
+	<read_alg>18</read_alg>
+	<write_alg>47</write_alg>
+	<erase_alg>0</erase_alg>
+	<id_alg>18</id_alg>
+	<resprotect_alg>0</resprotect_alg>
+	<setprotect_alg>0</setprotect_alg>
+	<prog_vpp>1250</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>1250</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+
+</flash>

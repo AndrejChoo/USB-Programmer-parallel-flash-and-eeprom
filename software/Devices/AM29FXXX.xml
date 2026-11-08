@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="AM29F512">
+    <flash_size>65536</flash_size>
+    <page_size>1</page_size> 
+    <page_count>65536</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+	<read_alg>1</read_alg>
+	<write_alg>6</write_alg>
+	<erase_alg>6</erase_alg>
+	<id_alg>6</id_alg>
+	<resprotect_alg>6</resprotect_alg>
+	<setprotect_alg>6</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+  <name model="AM29F020">
+    <flash_size>262144</flash_size>
+    <page_size>1</page_size> 
+    <page_count>262144</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+	<read_alg>1</read_alg>
+	<write_alg>6</write_alg>
+	<erase_alg>6</erase_alg>
+	<id_alg>6</id_alg>
+	<resprotect_alg>6</resprotect_alg>
+	<setprotect_alg>6</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+  <name model="AM29F040">
+    <flash_size>524288</flash_size>
+    <page_size>1</page_size> 
+    <page_count>524288</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+	<read_alg>1</read_alg>
+	<write_alg>6</write_alg>
+	<erase_alg>6</erase_alg>
+	<id_alg>6</id_alg>
+	<resprotect_alg>6</resprotect_alg>
+	<setprotect_alg>6</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+  
+  <name model="AM29F080">
+    <flash_size>1048576</flash_size>
+    <page_size>1</page_size> 
+    <page_count>1048576</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+	<read_alg>1</read_alg>
+	<write_alg>6</write_alg>
+	<erase_alg>6</erase_alg>
+	<id_alg>6</id_alg>
+	<resprotect_alg>6</resprotect_alg>
+	<setprotect_alg>6</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+  
+  <name model="AM29F016">
+    <flash_size>2097152</flash_size>
+    <page_size>1</page_size> 
+    <page_count>2097152</page_count>
+	<delay>20</delay>
+	<id>01A4</id>
+	<read_alg>1</read_alg>
+	<write_alg>6</write_alg>
+	<erase_alg>6</erase_alg>
+	<id_alg>6</id_alg>
+	<resprotect_alg>6</resprotect_alg>
+	<setprotect_alg>6</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>0</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+  
+</flash>

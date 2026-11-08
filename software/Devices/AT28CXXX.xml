@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flash>
+
+  <name model="at28c64">
+    <flash_size>8192</flash_size>
+    <page_size>64</page_size> 
+    <page_count>128</page_count>
+	<delay>190</delay>
+	<id>DAC1</id>
+	<read_alg>1</read_alg>
+	<write_alg>20</write_alg>
+	<erase_alg>4</erase_alg>
+	<id_alg>4</id_alg>
+	<resprotect_alg>4</resprotect_alg>
+	<setprotect_alg>4</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>1250</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+  <name model="at28c256">
+    <flash_size>32768</flash_size>
+    <page_size>64</page_size> 
+    <page_count>512</page_count>
+	<delay>230</delay>
+	<id>DAC1</id>
+	<read_alg>1</read_alg>
+	<write_alg>4</write_alg>
+	<erase_alg>4</erase_alg>
+	<id_alg>4</id_alg>
+	<resprotect_alg>4</resprotect_alg>
+	<setprotect_alg>4</setprotect_alg>
+	<prog_vpp>0</prog_vpp>
+	<erase_vpp>1250</erase_vpp>
+	<id_vpp>0</id_vpp>
+	<protect_vpp>0</protect_vpp>
+  </name>
+
+</flash>
